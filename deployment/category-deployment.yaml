@@ -20,7 +20,7 @@ spec:
         servicefor: category
     spec:
       containers:
-      - image: ganeshprasad1234/category:distributed
+      - image: ganeshprasad1234/category:dist
         imagePullPolicy: Always
         name: category
         ports:
